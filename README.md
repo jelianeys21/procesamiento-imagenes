@@ -1,1 +1,1 @@
-# banderas-colores
+# procesamiento-imagenes
